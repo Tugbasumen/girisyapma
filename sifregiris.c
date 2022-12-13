@@ -22,7 +22,7 @@ int main(int argc, char *argv[])
 		
 		if(kulanici_ad=='t' && sifre==123)
 		{
-			printf("TEBRÝKLER BASARÝLÝ GÝRÝS \n ");
+			printf("TEBRÄ°KLER BASARÄ°LÄ° GÄ°RÄ°S \n ");
 			break;
 		}
 		else
